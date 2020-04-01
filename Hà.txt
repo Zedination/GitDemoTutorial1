@@ -1,4 +1,7 @@
 Hà ăn cặc
 Cặc ăn Hà
+<<<<<<< HEAD
 Hà ăn đầu buồi
 Hà liếm đít chó
+=======
+>>>>>>> parent of df2e880... demo lần 3
